@@ -1,2 +1,3 @@
-# ComputationalAstrophysics
-Public repository for the Computational Astrophysics course 2020 at the Observatorio Astronómico Nacional.
+# 00. Git and Github Introduction
+
+Introduction to the basic conscepts of git and GitHub
